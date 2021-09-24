@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">My Application</string>
+    <strign name="pytanie1">Najwyższy szczyt w Bieszczadach</strign>
+    <string name="odp_1a">Rysy</string>
+    <string name="odp_1b">Sniezyca</string>
+    <string name="odp_1c">Tarnica</string>
+    <strign name="pytanie2">Ktore gory są w Bieszczadach</strign>
+    <string name="odp_2a">Rysy</string>
+    <string name="odp_2b">Sniezyca</string>
+    <string name="odp_2c">Tarnica</string>
+    <strign name="pytanie3">Płoniny w Bieszczadach</strign>
+    <string name="odp_3a">Witlinńska</string>
+    <string name="odp_3b">Morska</string>
+    <string name="odp_3c">Caryńska</string>
+    <string name="sprawdz">Sprawdz</string>
 </resources>
